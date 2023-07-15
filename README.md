@@ -1,4 +1,4 @@
-![](C:\Users\Makeyshu\Desktop\Treino de HTML & CSS\Proz Turismo\logoproz.png)
+![](https://github.com/maketshu/proz_turismo_prototipo/blob/main/logoproz.png)
 
 ​				
 
